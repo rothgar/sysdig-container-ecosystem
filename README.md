@@ -290,6 +290,7 @@ These platforms further abstract container-based infrastructures by managing app
 * **Other open source**
   * [Weave](https://github.com/weaveworks/weave): overlay network that puts all containers in a distributed system onto a single virtual network; also includes service discovery functionality
   * [Calico](http://www.projectcalico.org/): layer 3 virtual network that provides each container with an IP address
+  * [Fan](https://wiki.ubuntu.com/FanNetworking): maps a smaller network space (/16) to a larger one (/8)
 
 
 #### Monitoring / Visibility
