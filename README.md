@@ -303,6 +303,7 @@ These platforms further abstract container-based infrastructures by managing app
   * [sysdig](http://www.sysdig.org/): CLI for deep system/containers visibility; includes curses-based "csysdig" interface
   * [cAdvisor](https://github.com/google/cadvisor): basic container metrics exporter from Google; includes web GUI; [Heapster](https://github.com/kubernetes/heapster) adds Kubernetes support
   * [Weave Scope](https://github.com/weaveworks/scope): container network topologies
+  * [Prometheus](http://prometheus.io/): Container monitoring and visualization
 
 * **Commercial**
   * [Sysdig Cloud](https://sysdig.com/): uses sysdig; includes web-based UI, application topologies, and support for all major container formats and orchestration platforms
